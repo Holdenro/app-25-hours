@@ -32,3 +32,22 @@ header{
 	display: none;
 }
 
+.menu {
+	width: 25px;
+	margin-top: 45%;
+}
+
+.server {
+	width: 70%;
+	margin: 2em auto 2em 25%
+}
+
+h1, .subhead {
+	position: relative;
+	z-index: 3;
+}
+
+.blue-container {
+	width: 100%;
+	background: #00C2FF;
+}
