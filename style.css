@@ -1,1 +1,34 @@
-style.css
+body {
+	margin: 0;
+	font-family: 'Montserrat', sans-serif;
+}
+
+p, blockquote {
+	font-size: .9em;
+	line-height: 1.6em;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	text-align: center;
+	padding: .8em 1.2em;
+}
+
+.logo{
+	width: 130px;
+}
+
+header{
+	display: flex;
+	justify-content: space-between;
+}
+
+.hide-mobile {
+	display: none;
+}
+
