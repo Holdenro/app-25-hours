@@ -181,6 +181,14 @@ ul.footer-links {
 	list-style-type: none;
 }
 
+ul.footer-links li {
+	display: inline-block;
+}
 
+ul.footer-links li a {
+	display: inline-block;
+	color: #9D9D9D;
+	font-size: .8em;
+}
 
 
