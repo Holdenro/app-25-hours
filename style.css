@@ -218,7 +218,7 @@ nav ul li a:hover {
 
 .exit-btn {
 	margin-bottom: 1em;
-	margin-top: 1.3em;
+	margin-top: -1.3em;
 	text-align: right;
 	padding: 0 1.4em;
 }
